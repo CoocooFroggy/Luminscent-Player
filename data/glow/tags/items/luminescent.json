@@ -1,0 +1,29 @@
+{
+    "values": [
+        "minecraft:beacon",
+        "minecraft:campfire",
+        "minecraft:conduit",
+        "minecraft:end_gateway",
+        "minecraft:end_portal",
+        "minecraft:glowstone",
+        "minecraft:fire",
+        "minecraft:lava",
+        "minecraft:lava_cauldron",
+        "minecraft:jack_o_lantern",
+        "minecraft:lantern",
+        "minecraft:sea_lantern",
+        "minecraft:sea_pickle",
+        "minecraft:shroomlight",
+        "minecraft:end_rod",
+        "minecraft:torch",
+        "minecraft:nether_portal",
+        "minecraft:crying_obsidian",
+        "minecraft:soul_campfire",
+        "minecraft:soul_fire",
+        "minecraft:soul_lantern",
+        "minecraft:soul_torch",
+        "minecraft:ender_chest",
+        "minecraft:redstone_torch",
+        "minecraft:magma_block"
+    ]
+}
